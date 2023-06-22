@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * set_op_tok_err - sets last element of op_toks to be an error code

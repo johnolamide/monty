@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * strtow - separate the words from strings
